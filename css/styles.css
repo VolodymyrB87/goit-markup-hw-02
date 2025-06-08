@@ -1,0 +1,101 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  background-color: #ffffff;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+.link-address .link {
+  color: #434455;
+}
+.page-link .link-nav:hover {
+  color: #9747ff;
+}
+.page-link .link-nav {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+.link-address .link:hover,
+.link-address .link:focus {
+  color: #404bbf;
+}
+.title {
+  background-color: #2e2f42;
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 700;
+}
+.btn:hover {
+  background-color: #404bbf;
+}
+.btn {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.card-team {
+  background-color: #f4f4fd;
+}
+h2 {
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+}
+
+h3 {
+  font-family: Roboto;
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+}
+p {
+  font-family: Roboto;
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+footer {
+  background-color: #2e2f42;
+}
+.text {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #f4f4fd;
+}
+.logo-up {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+}
+.logo {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  color: #4d5ae5;
+}
+
+.logo-text {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  color: #f4f4fd;
+}
